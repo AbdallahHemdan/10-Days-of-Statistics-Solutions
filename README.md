@@ -1,4 +1,4 @@
-# HackerRank_10-Days-of-Statistics
+# HackerRank_10_Days_of-Statistics
 
 ![856771_668224053197841_1943699009_o](https://user-images.githubusercontent.com/40190772/45338368-1ad54200-b58d-11e8-8d7c-ff4f08548564.png)
 
