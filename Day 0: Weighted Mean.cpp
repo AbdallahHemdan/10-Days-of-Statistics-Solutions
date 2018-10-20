@@ -37,17 +37,17 @@ int main()
 {
     int n ; 
     cin >> n ; 
-    int arr[n] , w[n] ; 
+    int nums[n] , w[n] ; 
     int sum = 0 ; 
-    for(int i=0 ; i<n ;i++)
-       cin >> arr[i] ; 
-    for(int i=0 ; i<n ;i++)
+    for(int i = 0; i < n; i++)
+       cin >> nums[i] ; 
+    for(int i = 0; i < n; i++)
     {
         cin >> w[i] ;
-        sum+= w[i] ; 
+        sum += w[i] ; 
     }
    float res = 0 ; 
     for(int i=0 ; i<n ;i++)
-         res += arr[i]*w[i] ;
+         res += nums[i]*w[i] ;
     cout << fixed << setprecision(1) << res/sum <<endl ;
 }
